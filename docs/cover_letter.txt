@@ -1,0 +1,8 @@
+Dear Hiring Team,
+
+I'm writing to express my strong interest in the Data Engineer position focused on mental health AI systems. I have designed a complete project simulating HIPAA-compliant pipelines for large-scale ML training, using tools such as Spark, AWS-like data lakes, and Streamlit dashboards. My approach prioritizes data quality, lineage tracking, and integration with MLOps pipelines—aligned with your vision for transforming mental healthcare.
+
+Please find my project and technical demonstrations in my portfolio. I am confident this hands-on approach and passion for meaningful data engineering will contribute directly to your mission.
+
+Sincerely,  
+Brakjate Parvature
