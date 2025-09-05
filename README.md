@@ -3,8 +3,8 @@
 This project demonstrates a HIPAA-compliant AI/ML data pipeline for mental health applications, simulating a production-grade setup for training, validating, and deploying models using distributed processing and governance features.
 
 ## Author
-**Brakjate Parvature**  
-*Generated on: 2025-09-05*
+**Brakjate QUANTUM CORE**  
+*Generated on: 2025-09-01*
 
 ## Features
 - Scalable ETL pipelines using Apache Spark
